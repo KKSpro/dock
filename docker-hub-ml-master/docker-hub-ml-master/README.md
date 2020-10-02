@@ -1,5 +1,4 @@
-# Sample for DockerCon EU 2018
-BY KKSpro
+
 
 ---
 
